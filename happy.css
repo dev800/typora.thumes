@@ -154,7 +154,7 @@ table {
   border-collapse: collapse;
   border-spacing: 0;
   empty-cells: show;
-  border: 1px solid #cbcbcb;
+  border: 2px solid #888;
 }
 thead {
   background-color: #e0e0e0;
@@ -165,7 +165,7 @@ thead {
 td,
 th {
   border-left: 1px solid #cbcbcb;
-  border-width: 0 0 0 1px;
+  border-top: 1px solid #cbcbcb;
   margin: 0;
   overflow: visible;
   padding: .5em 1em;

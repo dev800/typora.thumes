@@ -404,7 +404,7 @@ hr:after {
 }
 .cm-s-inner {
   background-color: #263238;
-  color: #e9eded;
+  color: #65cd1c;
 }
 .CodeMirror.cm-s-inner .CodeMirror-guttermarker,
 .CodeMirror.cm-s-inner .CodeMirror-guttermarker-subtle,
@@ -437,7 +437,7 @@ hr:after {
   color: #c792ea;
 }
 .CodeMirror.cm-s-inner .cm-operator {
-  color: #e9eded;
+  color: #65cd1c;
 }
 .CodeMirror.cm-s-inner .cm-variable-2 {
   color: #80CBC4;
@@ -455,10 +455,10 @@ hr:after {
   color: #F77669;
 }
 .CodeMirror.cm-s-inner .cm-def {
-  color: #e9eded;
+  color: #65cd1c;
 }
 .CodeMirror.cm-s-inner .cm-string {
-  color: #C3E88D;
+  color: #ff55df;
 }
 .CodeMirror.cm-s-inner .cm-string-2 {
   color: #80CBC4;
@@ -508,7 +508,7 @@ hr:after {
 /**apply to code fences with plan text**/
 .md-fences {
   background-color: #263238;
-  color: #e9eded;
+  color: #65cd1c;
   border: none;
   overflow-x: visible;
   white-space: pre;
@@ -592,11 +592,15 @@ a {
 }
 
 #typora-sidebar {
-  color: #ddd;
+  color: #fff;
 }
 
 .html-for-mac #typora-sidebar {
   border-right: none;
+}
+
+#sidebar-files-menu a {
+  color: #fff;
 }
 
 content {

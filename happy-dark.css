@@ -1,5 +1,3 @@
-@include-when-export url(https://fonts.googleapis.com/css?family=Inconsolata:400,700&subset=latin-ext);
-
 :root {
   --bg-color: #222;
   --side-bar-bg-color: #5F5F5F;
@@ -813,15 +811,15 @@ titlebar {
 }
 
 .file-tree-node.active > .file-node-content {
-  color: #333;
+  color: #f6f6f6;
 }
 
 .file-node-content {
-  color: #000;
+  color: #f3f3f3;
 }
 
 .file-node-content:hover {
-  color: #333;
+  color: #f6f6f6;
 }
 
 .md-task-list-item>input {

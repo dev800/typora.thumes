@@ -397,7 +397,7 @@ hr:after {
 .md-fences:not(.md-fences-with-lineon) .cm-s-inner {
   padding-left: 8px;
 }
-.CodeMirror {
+.CodeMirror-code {
   padding: 0 0 1.5em;
 }
 .CodeMirror.cm-s-inner {
